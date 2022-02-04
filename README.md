@@ -7,3 +7,19 @@ Integrantes:
 * Anthonny Espinosa
 * Diego Leiva
 * Isaías Silva
+
+# Enfoques
+* Interfaz amigable
+* Facil acceso
+* Intuitiva
+* Posibilidad de expansion nacional
+
+# Caracteristicas
+* Pagina de Inicio
+* Categorizacion de platos
+* Categoria de Locales
+* Categoria de Contactanos
+* Login
+* Buscador
+* Sliders
+* Ubicacion geografica de locales
